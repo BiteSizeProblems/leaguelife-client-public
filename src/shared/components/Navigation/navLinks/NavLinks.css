@@ -1,0 +1,60 @@
+.nav-links {
+  width: 500px;
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+}
+
+.nav-links a {
+  font-size: 1em;
+  color: #54D5E1;
+}
+  
+.nav-links a:hover,
+.nav-links a:active {
+  font-size: 1.5em;
+}
+
+.logout-button {
+  color: #54D5E1;
+  font-size: 1.5em;
+ }
+ 
+ .logout-button:hover {
+  color: #54D5E1;
+  font-size: 2em;
+ }
+  
+@media (max-width: 700px) {
+
+  .nav-links {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 10%;
+  }
+
+  .nav-links a {
+    color: #54D5E1;
+    text-decoration: none;
+    font-size: 1em;
+  }
+
+  .nav-links a:hover,
+  .nav-links a:active {
+    font-size: 1.5em;
+  }
+
+  .logout-button {
+    margin: 0;
+    font-size: 1.5em;
+    color: #54D5E1;
+  }
+   
+  .logout-button:hover {
+    font-size: 1.5em;
+    color: #54D5E1;
+  }
+
+
+}

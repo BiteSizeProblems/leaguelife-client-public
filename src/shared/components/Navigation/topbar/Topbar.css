@@ -1,0 +1,33 @@
+.topbar__container {
+  top:0;
+  position: fixed;
+  z-index: 999;
+  background-color: #1d1e2e !important;
+  box-shadow: 0px 1px rgb(249,3,254, 0.5) !important;
+  width: 100vw;
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+.topbar__start {
+  display: flex;
+  width: fit-content;
+  margin-left: 5px;
+  padding-right: 15px;
+  font-weight: 600;
+}
+
+.topbar__title {
+  text-decoration: none;
+  color: white;
+  flex-wrap: nowrap;
+}
+
+@media (max-width: 1000px) {
+
+  .topbar__container {
+    box-shadow: 0px 1px rgb(249,3,254, 0.5) !important;
+    width: 100vw;
+  }
+
+}

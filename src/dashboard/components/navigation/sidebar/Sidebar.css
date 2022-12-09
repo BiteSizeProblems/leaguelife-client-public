@@ -1,0 +1,35 @@
+.prog_sidebar_btn {
+  display: none !important;
+  visibility:collapse !important;
+}
+
+.prog_sidebar {
+  display: none !important;
+  visibility:collapse !important;
+}
+
+.widescreen_sidebar {
+  display: block;
+}
+
+@media (max-width: 1000px) {
+
+  .prog_sidebar_btn {
+    display: flex !important;
+    visibility: visible !important;
+    margin-left: 1em !important;
+    margin-top: 1em !important;
+    width: 15vw;
+  }
+
+  .prog_sidebar {
+    display: flex !important;
+    visibility: visible !important;
+  }
+  
+  .widescreen_sidebar {
+    display: none;
+    visibility:collapse;
+  }
+
+}

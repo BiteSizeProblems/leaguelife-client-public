@@ -1,0 +1,54 @@
+.container {
+    cursor: default;
+    min-width: 100%;
+    background-color: #17212f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 12rem;
+}
+
+.landing-section_1 {
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #1d1e2e;
+    background-image: linear-gradient(180deg, #00DBDE 0%, #FC00FF 100%);
+    padding: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner-container {
+    text-align: center;
+    margin-bottom: 1rem;
+    width: 50rem;
+    padding-top: 1rem;
+}
+
+.banner-text-primary {
+    font-size: 40px;
+    color: white;
+    margin: 0;
+    padding-left: 1rem;
+}
+
+.banner-text-secondary {
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: #17212f;
+    margin:0;
+    padding-left: 1rem;
+}
+
+.content-container {
+    text-align: center;
+    padding: 5rem;
+    margin: 0;
+}
+
+

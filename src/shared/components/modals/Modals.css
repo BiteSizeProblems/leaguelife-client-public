@@ -1,0 +1,12 @@
+.modal__container {
+  width: 35rem;
+}
+
+@media (max-width: 1000px) {
+
+  .modal__container  {
+    width: 95vw;
+    height: 100vh;
+  }
+
+}

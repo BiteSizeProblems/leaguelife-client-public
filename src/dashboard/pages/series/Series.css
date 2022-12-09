@@ -1,0 +1,53 @@
+.addDivision {
+  height: 10px;
+  margin: 10px;
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: medium;
+}
+
+.addDivision-Icon {
+  margin-bottom: 3px;
+  margin-left: 10px;
+  margin-right: 3px;
+}
+
+.confirm-delete-modal {
+  padding: 5px;
+}
+
+.actions-cell {
+  display: flex;
+}
+
+.edit-button {
+  float: left;
+}
+
+.copy-button {
+  margin-left: 5px;
+}
+
+.delete-button {
+  margin-left: 5px;
+}
+
+.datatable-rowgroup-demo .p-rowgroup-footer td {
+  font-weight: 700;
+}
+
+.datatable-rowgroup-demo .p-rowgroup-header span {
+  font-weight: 700;
+}
+
+.datatable-rowgroup-demo .p-rowgroup-header .p-row-toggler {
+  vertical-align: middle;
+  margin-right: .25rem;
+}
+
+.regulations .p-fieldset-legend-text{
+  display: flex;
+  flex-direction: column;
+  border-color: #54D5E1;
+  color: #54D5E1;
+}

@@ -1,0 +1,11 @@
+.login_btn {
+  margin-right: 2rem;
+}
+
+@media (max-width: 1000px) {
+
+  .login_btn {
+    margin-right: 0rem;
+  }
+
+}

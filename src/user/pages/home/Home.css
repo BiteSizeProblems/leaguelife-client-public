@@ -1,0 +1,20 @@
+.homepage-container {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 12rem;
+    text-align: center;
+}
+
+.homepage-title {
+    color: white;
+    font-size: 2rem;
+    margin: 5rem 0px;
+    padding: 3rem;
+    width: 100%;
+}
+
+@media all and (max-width: 900px) {
+    .homepage-container{ /* Hide advertisement panel*/
+        font-size: 1em;
+    }
+}

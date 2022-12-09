@@ -1,0 +1,23 @@
+.dashboard-container{
+    width: 100vw;
+    min-height: 100vh;
+    z-index: 1;
+}
+
+.dashboard-content {
+    width: calc(100vw - 220px);
+    padding-bottom: 2em;
+    margin: 1em;
+    margin-left: 200px;
+    padding: 3em 2em;
+}
+
+@media (max-width: 1000px) {
+
+    .dashboard-content {
+        width: 100vw;
+        margin-left: 0;
+        padding: 0.5em 1em;
+    }
+  
+  }
