@@ -90,16 +90,17 @@ The following properties are unique to each season:
 
 
 ##### Events
-:calendar: Build events for each season using the interactive calendar to select each race day and time.
+Build events for each season using the interactive calendar to select each race day and time.
 
 <img src="https://user-images.githubusercontent.com/97358081/208750797-83e98f20-5fdd-46f7-a339-2354f00ca11d.png" alt="search-leagues" >
 
 Once your events have been built, view and edit them in a list or calendar view to make sure you stay on top of your schedule.
 
-+ List View
++ :memo: List View
 
 <img src="https://user-images.githubusercontent.com/97358081/208750896-4b56f1b8-16ec-4187-99a9-ba682fd7456e.png" alt="search-leagues" >
-+ Calendar View
+
++ :calendar: Calendar View
 
 <img src="https://user-images.githubusercontent.com/97358081/208750912-244e0697-e3f7-42b7-871d-662c07b6adc7.png" alt="search-leagues" >
 
