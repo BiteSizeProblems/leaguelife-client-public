@@ -1,6 +1,20 @@
 <div align="center">
-	<h1>🏎 <br/> League Life <br/> README</h1>
+	<h1>:racing_car: <br/> README</h1>
 </div>
+
+![image](https://user-images.githubusercontent.com/97358081/208944971-b6864711-17a2-4f2a-b25e-f4b95917a56a.png)
+
+---
+
+<br/>
+
+
+
+<div align="center">
+	<h3><a href="https://leaguelife.net/">:link: View it Live!</a></h3>
+</div>
+
+<br/>
 
 ---
 
